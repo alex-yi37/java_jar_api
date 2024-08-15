@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### credentials we don't want to upload to version control
+/src/main/resources/env.properties
